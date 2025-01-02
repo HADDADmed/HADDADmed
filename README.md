@@ -105,12 +105,12 @@
 - **Technologies:**  Angular, Flask, JWT, MySQL, Raspberry Pi 4, Arduino, Docker, Node.js.
 - **Description:** 🚗 Created an IoT-based smart parking system with real-time monitoring and dynamic slot availability.
 
-#### **Freelancers-Land** | 2023  
+#### **Freelancers-Land** | Application Architect | DevOps Specialist | 2023  
 - **Role:** Fullstack Developer  
 - **Technologies:** Angular, Angular Material, Node.js, Express.js, JWT, MongoDB, GraphQL  
 - **Description:** 💼 Built a platform simulating the concept of Fiverr for freelancers.
 
-#### **E-commerce Website** | 2022  
+#### **MATJARI E-commerce Website** | Full Stack Engineer | 2022  
 - **Role:** Fullstack Developer  
 - **Technologies:**  Symfony, PHP, MySQL, Stripe, React, Docker, Node.js, Redis.
 - **Description:** 🛒 Developed a complete e-commerce platform with functionalities like product search, checkout, and payment processing.
