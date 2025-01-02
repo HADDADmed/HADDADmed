@@ -88,34 +88,34 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-haddad-eng) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/HADDADmed/HADDADmed) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=X&logoColor=white)](ps://x.com/MOHAMMEDHA46200) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/XxMEDHDxX) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/haddad___med/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=twitch&logoColor=white)](https://twitch.tv/xmedhdgamer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@mohamme40943405)
 
 
-### Here are some of the notable projects I have worked on:
+### 🚀 Notable Projects
 
-
-#### **AI-SHIELD (DEVOLVE team)** | 2024  
+#### **AI-SHIELD (DEVOLVE team)** | Full Stack Engineer | Security Specialist | 2024  
 - **Role:** Fullstack Developer | Machine Learning Developer  
 - **Technologies:** Machine Learning, Scikit-learn, Artificial Neural Networks (ANN), Deep Learning, Docker, Azure, Next.js, Next UI, Tailwind CSS  
-- **Achievement:** First prize at the national hackathon N7CHALLENGE at ENSET Mohammedia on the theme "Artificial Intelligence against Cyber Threats: Phishing Detection."
+- **Achievement:** 🏆 First prize at the national hackathon N7CHALLENGE at ENSET Mohammedia on the theme "Artificial Intelligence against Cyber Threats: Phishing Detection."
 
-#### **Assurance Décentralisée - Projet Aman Lfar9a** | 2024  
+#### **Assurance Décentralisée - Project Aman Lfar9a** | Full Stack Engineer | ML Engineer | 2024  
 - **Role:** Fullstack Developer | Machine Learning Developer  
 - **Technologies:** Machine Learning, Microservices, Blockchain, Hardhat, Solidity, Metamask, Next.js, Next UI, Tailwind CSS, Ruby, Go, Docker, Azure  
-- **Description:** Developed a decentralized insurance platform using blockchain for transparency and AI for fraud detection.
+- **Description:** 🌐 Developed a decentralized insurance platform using blockchain for transparency and AI for fraud detection.
 
-#### **SMART PARKING** | 2023  
+#### **SMART PARKING** | IoT Solutions Architect | 2024  
 - **Role:** Fullstack Developer | IoT Developer  
-- **Technologies:** Angular, Flask, JWT, MySQL, Raspberry Pi4, Arduino  
-- **Description:** Created an IoT-based smart parking system with real-time monitoring and dynamic slot availability.
+- **Technologies:**  Angular, Flask, JWT, MySQL, Raspberry Pi 4, Arduino, Docker, Node.js.
+- **Description:** 🚗 Created an IoT-based smart parking system with real-time monitoring and dynamic slot availability.
 
 #### **Freelancers-Land** | 2023  
 - **Role:** Fullstack Developer  
 - **Technologies:** Angular, Angular Material, Node.js, Express.js, JWT, MongoDB, GraphQL  
-- **Description:** Built a platform simulating the concept of Fiverr for freelancers.
+- **Description:** 💼 Built a platform simulating the concept of Fiverr for freelancers.
 
 #### **E-commerce Website** | 2022  
 - **Role:** Fullstack Developer  
-- **Technologies:** Symfony, MySQL  
-- **Description:** Developed a complete e-commerce platform with functionalities like product search, checkout, and payment processing.
+- **Technologies:**  Symfony, PHP, MySQL, Stripe, React, Docker, Node.js, Redis.
+- **Description:** 🛒 Developed a complete e-commerce platform with functionalities like product search, checkout, and payment processing.
 
+---
 
 ### About Me:
 
