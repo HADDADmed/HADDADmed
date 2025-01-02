@@ -1,129 +1,126 @@
-# 👋 Hello, I'm Mohammed Haddad
+<h1 align="center">Hi 👋, I'm Muhammad Haddad</h1>
+<h3 align="center">A passionate Software Engineering and Smart Systems student from Morocco</h3>
 
-I’m a **Software Engineering Student** with a passion for development and technology.
+- 🔭 I’m currently working on **AI and Full-Stack Development** projects  
+- 🌱 I’m learning **Machine Learning**, **Spring Boot**, **Angular**, **Docker**, **Kubernetes**, and **Cloud Technologies**  
+- 🧑‍💻 I’m proficient in **MERN** (MongoDB, Express.js, React, Node.js) and **MEAN** (MongoDB, Express.js, Angular, Node.js) stacks for full-stack development  
+- 🤖 I’m enthusiastic about **AI**, **DevOps**, and cloud technologies  
+- 📫 Reach me at: **mohhd2045@gmail.com**
+- - 💼 **Currently seeking an internship** in **Full-Stack Development**, **AI**, or **DevOps** starting from **February 2025**.
 
-## 💻 Tech Stack
-Here are the technologies I use to build amazing things:
+
+---
 
 ### Programming Languages:
-
-
-#### Badges:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 
-#### Devicons Logos:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-</a>
-<a href="https://golang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-</a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-</a>
+---
 
+### Web Technologies:
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
+---
 
-### Frontend Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frameworks & Libraries:
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![JEE](https://img.shields.io/badge/java%20ee-%23212121.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
-### Backend Development:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+---
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2300A24E.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405E.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql%20server-%23007A9E.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Cassandra](https://img.shields.io/badge/cassandra-%23F3F3F3.svg?style=for-the-badge&logo=cassandra&logoColor=white)
+
+---
+
+### Machine Learning & Data Science:
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### Microservices Architecture:
+![Microservices](https://img.shields.io/badge/microservices-%231D1F27.svg?style=for-the-badge&logo=microservices&logoColor=white)
+
+---
 
 ### DevOps & Cloud:
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%23007ACC.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Design & Tools:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23333C8C.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%23007ACC.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🌐 Socials
-You can connect with me on these platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-haddad-828507216)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/haddad___med/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/XxMEDHDxX)
+### Agile Methodologies:
+![Scrum](https://img.shields.io/badge/scrum-%23E34F26.svg?style=for-the-badge&logo=scrum&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HADDADmed&show_icons=true&theme=dark&hide_border=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HADDADmed&theme=dark&hide_border=false)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HADDADmed&layout=compact&theme=dark&hide_border=false&count_private=true)
+### Social Media & Links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-haddad-828507216)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Haddad)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MohammedHaddad)
 
 ---
 
-## 🛠 Projects & Achievements
+### Here are some of the notable projects I have worked on:
 
-- **AI-SHIELD** | **Fullstack Developer, Machine Learning Developer**
-  - First Prize at N7CHALLENGE, ENSET Mohammedia (2023-2024).
-  - Technologies: Machine Learning, Scikit-learn, Next.js, Docker, Azure.
 
-- **Assurance Décentralisée** | **Fullstack Developer, Blockchain Developer**
-  - Developed a decentralized insurance platform using Ethereum blockchain.
-  - Technologies: Solidity, Hardhat, Metamask, Next.js, Docker.
+#### **AI-SHIELD (DEVOLVE team)** | 2024  
+- **Role:** Fullstack Developer | Machine Learning Developer  
+- **Technologies:** Machine Learning, Scikit-learn, Artificial Neural Networks (ANN), Deep Learning, Docker, Azure, Next.js, Next UI, Tailwind CSS  
+- **Achievement:** First prize at the national hackathon N7CHALLENGE at ENSET Mohammedia on the theme "Artificial Intelligence against Cyber Threats: Phishing Detection."
 
-- **SMART PARKING** | **Fullstack Developer, IoT Developer**
-  - A smart parking system that uses sensors and IoT devices.
-  - Technologies: Angular, Flask, Raspberry Pi, Arduino.
+#### **Assurance Décentralisée - Projet Aman Lfar9a** | 2024  
+- **Role:** Fullstack Developer | Machine Learning Developer  
+- **Technologies:** Machine Learning, Microservices, Blockchain, Hardhat, Solidity, Metamask, Next.js, Next UI, Tailwind CSS, Ruby, Go, Docker, Azure  
+- **Description:** Developed a decentralized insurance platform using blockchain for transparency and AI for fraud detection.
 
-- **Freelancers-Land** | **Fullstack Developer**
-  - Developed a freelancing platform similar to Fiverr.
-  - Technologies: Angular, Node.js, MongoDB.
+#### **SMART PARKING** | 2023  
+- **Role:** Fullstack Developer | IoT Developer  
+- **Technologies:** Angular, Flask, JWT, MySQL, Raspberry Pi4, Arduino  
+- **Description:** Created an IoT-based smart parking system with real-time monitoring and dynamic slot availability.
 
----
+#### **Freelancers-Land** | 2023  
+- **Role:** Fullstack Developer  
+- **Technologies:** Angular, Angular Material, Node.js, Express.js, JWT, MongoDB, GraphQL  
+- **Description:** Built a platform simulating the concept of Fiverr for freelancers.
 
-[![](https://visitcount.itsvg.in/api?id=HADDADmed&icon=0&color=0)](https://visitcount.itsvg.in)
+#### **E-commerce Website** | 2022  
+- **Role:** Fullstack Developer  
+- **Technologies:** Symfony, MySQL  
+- **Description:** Developed a complete e-commerce platform with functionalities like product search, checkout, and payment processing.
+
+
+### About Me:
+
+I'm a **Software Engineering and Smart Systems student** currently in my final year (Bac+5) at the **Faculty of Science and Technology of Tangier**. I’m actively seeking a **final year internship (PFE)** starting from **February 2025** in the fields of **Full Stack Development**, **DevOps**, or **Artificial Intelligence**. Passionate, motivated, and flexible, I am ready to take on new challenges within a dynamic team. I am currently enhancing my skills in **Machine Learning**, **Spring Boot**, **Angular**, and **Cloud Technologies**. I am also open to collaborations and new opportunities.
