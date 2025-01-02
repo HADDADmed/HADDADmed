@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haddad</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Haddad</h1>
 <h3 align="center">A passionate Software Engineering and Smart Systems student from Morocco</h3>
 
 - 🔭 I’m currently working on **AI and Full-Stack Development** projects  
