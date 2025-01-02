@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haddad</h1>
-<h3 align="center">A passionate Software Engineering and Smart Systems student from Morocco</h3>
+<h3 align="center">A passionate Software Engineering and Intelligent Systems student from Morocco</h3>
 
 - 🔭 I’m currently working on **AI and Full-Stack Development** projects  
 - 🌱 I’m learning **Machine Learning**, **Spring Boot**, **Angular**, **Docker**, **Kubernetes**, and **Cloud Technologies**  
