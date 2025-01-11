@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering and Intelligent Systems student from Morocco</h3>
 
 - 🔭 I’m currently working on **AI and Full-Stack Development** projects  
-- 🌱 I’m learning **Machine Learning**, **Spring Boot**, **Angular**, **Docker**, **Kubernetes**, and **Cloud Technologies**  
+- 🌱 I’m learning **Machine Learning**, **Spring Boot**, **Docker**, **Kubernetes**, and **Cloud Technologies**  
 - 🧑‍💻 I’m proficient in **MERN** (MongoDB, Express.js, React, Node.js) and **MEAN** (MongoDB, Express.js, Angular, Node.js) stacks for full-stack development  
 - 🤖 I’m enthusiastic about **AI**, **DevOps**, and cloud technologies  
 - 📫 Reach me at: **mohhd2045@gmail.com**
